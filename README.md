@@ -4,6 +4,6 @@ I am a Software Engineer in Beijing. Language for Chinese🇨🇳，English🇺�
 
 Really like playing basketball，Miyagi Ryota(宫城良田) is my pipe dream.
 
-✍️Just a beginner for Writing.
+✍️Just a beginner to A writer.
 
 * [文字博客](https://github.com/mengziin/gitblog)
